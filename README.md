@@ -57,7 +57,7 @@ Vault/Atlas/AI_Memory/
 ### Option 1: Official Antigravity Plugin CLI (Recommended)
 Inside your Antigravity terminal:
 ```bash
-agy plugin install https://github.com/nailul/antigravity-obsidian-memory
+agy plugin install https://github.com/nailulgh/antigravity-obsidian-memory
 ```
 
 ### Option 2: 1-Click Installer for Your Obsidian Vault
@@ -66,13 +66,13 @@ agy plugin install https://github.com/nailul/antigravity-obsidian-memory
 Open PowerShell in your Obsidian Vault directory and run:
 ```powershell
 # Clone the repo temporarily or download setup.ps1
-irm https://raw.githubusercontent.com/nailul/antigravity-obsidian-memory/main/setup.ps1 | iex
+irm https://raw.githubusercontent.com/nailulgh/antigravity-obsidian-memory/main/setup.ps1 | iex
 ```
 *(Or clone this repository and execute `./setup.ps1 -VaultPath "C:\path\to\your\vault"`)*
 
 #### macOS / Linux:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nailul/antigravity-obsidian-memory/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nailulgh/antigravity-obsidian-memory/main/setup.sh | bash
 ```
 
 ---
@@ -112,7 +112,7 @@ Because this plugin stores all data as pure Markdown notes:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check [issues page](https://github.com/nailul/antigravity-obsidian-memory/issues).
+Feel free to check [issues page](https://github.com/nailulgh/antigravity-obsidian-memory/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
