@@ -1,0 +1,24 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "antigravity-obsidian-memory",
+  "displayName": "Antigravity Obsidian Memory",
+  "description": "Shared Long-Term Memory & Synchronization Plugin for AI Agents using Obsidian as central cognitive knowledge base (Mem0 & CoALA architecture).",
+  "version": "1.0.0",
+  "author": "Muhammad Nailul Ghufron Majid",
+  "license": "MIT",
+  "homepage": "https://github.com/nailul/antigravity-obsidian-memory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nailul/antigravity-obsidian-memory.git"
+  },
+  "keywords": [
+    "antigravity",
+    "obsidian",
+    "long-term-memory",
+    "ai-agent",
+    "mem0",
+    "cognitive-architecture",
+    "multi-agent",
+    "knowledge-base"
+  ]
+}
