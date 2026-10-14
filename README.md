@@ -126,4 +126,4 @@ Feel free to check [issues page](https://github.com/nailulgh/antigravity-obsidia
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-Developed with ❤️ by **[Muhammad Nailul Ghufron Majid](https://github.com/nailul)**.
+Developed with ❤️ by **[Muhammad Nailul Ghufron Majid](https://github.com/nailulgh)**.
